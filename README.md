@@ -3,7 +3,7 @@
 Welcome to my collection of beginner-friendly but interactive web projects built using **HTML, CSS, and JavaScript**.
 
 🔗 **Live Website:**  
-👉 https://Anmol-arya.github.io/my-projects/
+https://anmoljsminiproject.vercel.app/
 
 ---
 
